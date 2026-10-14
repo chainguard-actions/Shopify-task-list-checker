@@ -1,0 +1,16 @@
+{
+  "owner": "Shopify",
+  "repo": "task-list-checker",
+  "version": "main",
+  "commit_sha": "c796430acb8ce7e2f14ed66ce165a0fd5d277714",
+  "url": "https://github.com/Shopify/task-list-checker",
+  "policy_sha": "d636be7e43ef829af6e853da6b3c7566db9f72fe",
+  "test_policy_sha": "843adf9e4b8f85d0c08b27b9d0b09dd094b54702",
+  "test_agent_version": "2",
+  "harden_agent_version": "2",
+  "node_artifact": {
+    "gcs_uri": "gs://prod-actions-node-artifacts/node-artifacts/Shopify/task-list-checker/main/sha256-bc561cf27d0fa7566e1a96fa78ed1927af0bfa6e39da29f329389d74b8a6bde9.tar.gz",
+    "sha256": "bc561cf27d0fa7566e1a96fa78ed1927af0bfa6e39da29f329389d74b8a6bde9",
+    "size_bytes": 716415
+  }
+}
